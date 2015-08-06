@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{dedda648-4ed3-42aa-a783-f3fa342334b7}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{d9b1d46a-539b-482a-a55f-d880da6b72de}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Source Files\Filtre">
+      <UniqueIdentifier>{b0203557-92d6-455d-8bf3-f9119b09430e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Filtre">
+      <UniqueIdentifier>{5154753c-1f50-4838-bb8a-a525d68a7508}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Affichage">
+      <UniqueIdentifier>{21f04d5d-bc6f-4d98-98ea-30c035a7c765}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Affichage">
+      <UniqueIdentifier>{a8f45783-1771-49a7-b709-14978acc7ba9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools">
+      <UniqueIdentifier>{f2ad9b31-5f84-4a82-ba25-7c6dc3d44e7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tools">
+      <UniqueIdentifier>{76926f32-a822-44a4-890f-7cd8f9ce6f53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utils">
+      <UniqueIdentifier>{2d9c376e-fde3-46b1-a709-d2ec68953843}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utils">
+      <UniqueIdentifier>{24120658-e56a-40d2-bea4-392297305b25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>true</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files\Affichage\Interface">
+      <UniqueIdentifier>{2ff90440-0d09-4826-91c6-b790db13f636}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Affichage\Interface">
+      <UniqueIdentifier>{70a56dc7-b786-4132-b726-0f3982534cc4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MainWindow.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MainWindow.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="FilterWindow.cpp">
+      <Filter>Source Files\Affichage</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>Source Files\Affichage</Filter>
+    </ClCompile>
+    <ClCompile Include="FiltreLineaire.cpp">
+      <Filter>Source Files\Filtre</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_FilterWindow.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_FilterWindow.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="FiltreNonLineaire.cpp">
+      <Filter>Source Files\Filtre</Filter>
+    </ClCompile>
+    <ClCompile Include="SegmentationMono.cpp">
+      <Filter>Source Files\Filtre</Filter>
+    </ClCompile>
+    <ClCompile Include="SegmentationCouleur.cpp">
+      <Filter>Source Files\Filtre</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils_Widget.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="FileManager.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Convolution.cpp">
+      <Filter>Source Files\Filtre</Filter>
+    </ClCompile>
+    <ClCompile Include="MassImageView.cpp">
+      <Filter>Source Files\Affichage</Filter>
+    </ClCompile>
+    <ClCompile Include="OneImageInterface.cpp">
+      <Filter>Source Files\Affichage\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="MassImageInterface.cpp">
+      <Filter>Source Files\Affichage\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="OneImageView.cpp">
+      <Filter>Source Files\Affichage</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MassImageView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MassImageView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Modifier.cpp">
+      <Filter>Source Files\Filtre</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeFolder.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="myLabel.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_myLabel.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_myLabel.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FiltreLineaire.h">
+      <Filter>Header Files\Filtre</Filter>
+    </ClInclude>
+    <ClInclude Include="Modifier.h">
+      <Filter>Header Files\Filtre</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="FiltreNonLineaire.h">
+      <Filter>Header Files\Filtre</Filter>
+    </ClInclude>
+    <ClInclude Include="SegmentationMono.h">
+      <Filter>Header Files\Filtre</Filter>
+    </ClInclude>
+    <ClInclude Include="SegmentationCouleur.h">
+      <Filter>Header Files\Filtre</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils_Widget.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="FileManager.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Convolution.h">
+      <Filter>Header Files\Filtre</Filter>
+    </ClInclude>
+    <ClInclude Include="OneImageInterface.h">
+      <Filter>Header Files\Affichage\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="OneImageView.h">
+      <Filter>Header Files\Affichage</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeFolder.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="MainWindow.h">
+      <Filter>Header Files\Affichage</Filter>
+    </CustomBuild>
+    <CustomBuild Include="FilterWindow.h">
+      <Filter>Header Files\Affichage</Filter>
+    </CustomBuild>
+    <CustomBuild Include="MassImageInterface.h">
+      <Filter>Header Files\Affichage\Interface</Filter>
+    </CustomBuild>
+    <CustomBuild Include="MassImageView.h">
+      <Filter>Header Files\Affichage</Filter>
+    </CustomBuild>
+    <CustomBuild Include="myLabel.h">
+      <Filter>Header Files\Utils</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

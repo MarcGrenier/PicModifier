@@ -1,0 +1,14 @@
+Segmentation monochrome générique
+Segmentation monochrome prédéfinie
+Segmentation par couleur générique
+Segmentation par couleur prédéfinie
+Uniforme générique
+Uniforme prédéfinie
+Haut
+Bas
+Gauche
+Droite
+Haut-Droite
+Haut-Gauche
+Bas-Droite
+Bas-Gauche

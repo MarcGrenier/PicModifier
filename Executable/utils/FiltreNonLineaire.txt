@@ -1,0 +1,56 @@
+Filtre non linéaire générique
+255.0
+-1.0
+1.0
+Correction gamma de rehaussement niveau 1
+0.0
+1.0
+0.75
+Correction gamma de rehaussement niveau 2
+0.0
+1.0
+0.50
+Correction gamma de rehaussement niveau 3
+0.0
+1.0
+0.25
+Correction gamma d’assombrissement niveau 1
+0.0
+1.0
+1.50
+Correction gamma d’assombrissement niveau 2
+0.0
+1.0
+2.00
+Correction gamma d’assombrissement niveau 3
+0.0
+1.0
+4.00
+Négatif
+255.0
+-1.0
+1.0
+Correction gamma de rehaussement niveau 1 avec négatif
+255.0
+-1.0
+0.75
+Correction gamma de rehaussement niveau 2 avec négatif
+255.0
+-1.0
+0.50
+Correction gamma de rehaussement niveau 3 avec négatif
+255.0
+-1.0
+0.25
+Correction gamma d’assombrissement niveau 1 avec négatif
+255.0
+-1.0
+1.50
+Correction gamma d’assombrissement niveau 2 avec négatif
+255.0
+-1.0
+2.00
+Correction gamma d’assombrissement niveau 3 avec négatif
+255.0
+-1.0
+4.00

@@ -1,0 +1,8 @@
+90°
+180°
+270°
+Miroir horizontal
+Miroir vertical
+Redimmension par pixel
+Redimmension proportionnelle
+Rognage
